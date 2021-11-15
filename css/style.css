@@ -1,0 +1,65 @@
+@import url(reset.css);
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Fira+Code:wght@300&family=Lobster&display=swap');
+.header h1 {
+	font-size: 150px;
+	font-weight: bold;
+	font-style: normal;
+	font-family: 'Lobster', cursive;
+	background-color: #E5E000;
+	text-align: center;
+	Width: 1440px;
+    Height: 200px;
+    background-attachment: fixed;
+}
+.background {
+	background-image: url(../img/img.jpg);
+	width: 1440px;
+    height: 1080px;
+	background-position:left ;
+	background-attachment: fixed;
+	top: 200px;
+    background-repeat: no-repeat;	
+}
+.text {
+	font-family: 'Comfortaa', cursive;
+    background-color: #E5E000;
+    text-align: center;
+    Width: 1440px;
+    Height: 100px;
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+
+}
+.maintext {
+	font-family: 'Fira Code', monospace;
+	width: 1440px;
+    height: 1080px;
+    font-size: 45px;
+    font-weight: normal;    
+    margin-right: 30px;
+    margin-left: 70px;
+}
+.lend {
+	font-weight:bold;
+	font-size: 50px;
+   font-family: 'Fira Code', monospace;
+   margin-left: 70px;
+
+}
+
+.downp {
+width: 1440px;
+height: 200px;
+background-color: #E5E000;
+display: flex;
+align-items: center;
+
+}
+.foot {
+color: white;
+font-size: 50px;
+margin-left: 600px;
+display: flex;
+align-items: center;
+}
